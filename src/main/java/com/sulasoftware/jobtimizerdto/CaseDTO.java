@@ -19,7 +19,7 @@ public class CaseDTO implements Serializable {
 	private String id;
 	private String subject;
 	private Integer duration;
-	private List<String> activityTypes;
+	private List<String> skills;
 	private List<String> certifications;
 	private String postcode;
 	private Double[] coordinates;
